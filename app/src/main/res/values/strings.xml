@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="user" />
+    <string name="Ankush_Rita_Raj" />
+    <string name="Ankush_upi" />
+    <string name="Ankush_UPI">Ankush_upi</string>
+    <string name="Ankush_Raj">Ankush Raj</string>
+    <string name="qr">qr</string>
+    <string name="notification">notification\n</string>
+    <string name="Pay_now">PAY NOW</string>
+    <string name="Send">Send to \nmobile/upi</string>
+</resources>
